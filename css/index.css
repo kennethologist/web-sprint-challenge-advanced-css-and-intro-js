@@ -165,4 +165,21 @@ nav {
     margin-top:5%;
     font-size: .1rem;
 }
+
+.title-container div {	
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg/1920px-John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg');		
+    color: white;	
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:60vh;
+    margin:2% 0;
+    font-weight: bold;
+}
+
+.title-container hr{
+    width:100%;
+}
 }
